@@ -873,6 +873,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ by Furkhan Suhail**
+**Built by Furkhan Suhail**
 
 *Star this repo if you find it helpful!*
