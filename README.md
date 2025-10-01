@@ -844,11 +844,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit for rapid UI development
 - The open-source community
 
-## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/multi-agent-calculator/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/multi-agent-calculator/discussions)
-- **Email:** your.email@example.com
 
 ## 🗺️ Roadmap
 
