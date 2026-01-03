@@ -42,16 +42,16 @@ The system showcases key concepts in modern AI architecture:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     Streamlit Frontend                       │
-│                    (User Interface)                          │
+│                     Streamlit Frontend                      │
+│                    (User Interface)                         │
 └──────────────────────────┬──────────────────────────────────┘
                            │ HTTP POST
                            ↓
 ┌─────────────────────────────────────────────────────────────┐
-│                    Agent API (Port 8000)                     │
-│                    [Orchestration Layer]                     │
+│                    Agent API (Port 8000)                    │
+│                    [Orchestration Layer]                    │
 │  ┌────────────────────────────────────────────────────┐     │
-│  │  Request Router                                     │     │
+│  │  Request Router                                    │     │
 │  │  • Analyzes operation type                         │     │
 │  │  • Selects appropriate agent & MCP server          │     │
 │  └────────────────────────────────────────────────────┘     │
